@@ -7,9 +7,9 @@ data = list(
     )
 )
 
-# print(data)
+print(data)
 
-for i in range(0,len(data)):
+for i in range(0,len(data),1):
     print(data[i])
     
 
