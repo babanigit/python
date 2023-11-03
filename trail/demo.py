@@ -25,7 +25,7 @@ result = (
 )
 print("the result is",result,"\n")
 
-x = int(input("enter the number"))
+x = 12
 y = 6
 trailList = {1,2,3,4,5};
 if (x in trailList):
