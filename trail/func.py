@@ -13,17 +13,12 @@ print("hello")
 
 fun(2)
 
-print("hello 2")
+print("hello again ")
 
 
-def funReturn(x):
-    
-    def funReturn2(x):
+def fun3():
 
-        return x
-    
-    funReturn()
-    
-    return x
+    print("hello fun 3")
 
-funReturn()
+
+fun3()
